@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WMCMesage>
+  <WEEK id="1">
+    <BABYGROWTH>This is the first week of your pregnancy which is the last day of your last menstrual cycle</BABYGROWTH>
+    <DIET>Give special attention to what you eat, you are responsible for taking your family’s care </DIET>
+    <MEDICALCARE>Keep a check on your body weight </MEDICALCARE>
+    <DOS>You can plan your pregnancy in these days, these are the fertile days</DOS>
+    <DONTS>Do not smoke and consume alcohol, it is harmful for your baby</DONTS>
+  </WEEK>
+  <WEEK id="2">
+    <BABYGROWTH>Now the egg gets fertilized by the sperm and starts moving towards the uterus through fallopian tube</BABYGROWTH>
+    <DIET>Wash vegetables before consuming to avoid infections</DIET>
+    <MEDICALCARE>Maintain cleanliness and hygiene to avoid infections</MEDICALCARE>
+    <DOS>Think through before planning a pregnancy. Are you both ready to take the responsibility of a child?</DOS>
+    <DONTS>Do not plan next child before your first child is at least 3 years old</DONTS>
+  </WEEK>
+  <WEEK id="3">
+    <BABYGROWTH>Do you feel something different? Always remember sex of the baby is not determined by mother but by father’ sperm </BABYGROWTH>
+    <DIET>Eat adequate food to fulfill your body requirement </DIET>
+    <MEDICALCARE>Avoid inhaling kitchen smoke. Cook food outside in open or opt for smokeless stoves</MEDICALCARE>
+    <DOS>Keep your house clean and well-ventilated</DOS>
+    <DONTS>Do not delay in getting a pregnancy test done if you see any sign like morning sickness, fatigue, dizziness</DONTS>
+  </WEEK>
+  <WEEK id="4">
+    <BABYGROWTH>Now the egg gets placed in the uterus lining</BABYGROWTH>
+    <DIET>Avoid open-pan cooking as most of the nutrients get lost in this method</DIET>
+    <MEDICALCARE>Visit the doctor at PHC and confirm your pregnancy</MEDICALCARE>
+    <DOS>Always use clean and boiled water for drinking </DOS>
+    <DONTS>Do not walk barefoot, it may lead to worm infection</DONTS>
+  </WEEK>
+  <WEEK id="5">
+    <BABYGROWTH>Congratulations, you are going to be a mother very soon!</BABYGROWTH>
+    <DIET>Eat balanced diet which includes pulses, vegetables, fruits, milk and carbohydrates</DIET>
+    <MEDICALCARE>Get yourself registered at the nearest PHC</MEDICALCARE>
+    <DOS>Eat something immediately after getting up in the morning to avoid morning sickness</DOS>
+    <DONTS>Avoid lifting heavy objects</DONTS>
+  </WEEK>
+  <WEEK id="6">
+    <BABYGROWTH>Your baby’s heart is now beating 	
+</BABYGROWTH>
+    <DIET>Take iron rich foods like jaggery, roasted chana, beans, chiwra</DIET>
+    <MEDICALCARE>Take your first TT injection</MEDICALCARE>
+    <DOS>Eat small meals at frequent intervals	
+</DOS>
+    <DONTS>Do not smoke and consume alcohol, it is harmful for your baby</DONTS>
+  </WEEK>
+  <WEEK id="7">
+    <BABYGROWTH>Your baby’s arms and legs are growing</BABYGROWTH>
+    <DIET>Include daal in at least one meal of the day. It helps in the growth of your baby.</DIET>
+    <MEDICALCARE>Start taking iron and folic acid tablets. They are available free of cost at PHC</MEDICALCARE>
+    <DOS>Keep engaged in light household chores actively</DOS>
+    <DONTS>Avoid having tea with meals</DONTS>
+  </WEEK>
+  <WEEK id="8">
+    <BABYGROWTH>Your baby’s fingers and toes are growing.</BABYGROWTH>
+    <DIET>For your baby’s growth eat nutritious food in proper amounts</DIET>
+    <MEDICALCARE>Never take any medicine/herbs without consulting doctor. It can harm your baby.</MEDICALCARE>
+    <DOS>Try resting for two hours during the day</DOS>
+    <DONTS>Avoid working or standing for long hours</DONTS>
+  </WEEK>
+  <WEEK id="9">
+    <BABYGROWTH>Your baby’s head is developing </BABYGROWTH>
+    <DIET>Always use iodized salt in your food as it is important for brain development</DIET>
+    <MEDICALCARE>Take iron and folic acid tablets regularly. They are available free of cost at PHC</MEDICALCARE>
+    <DOS>Avoid spicy and oily food to prevent heartburn	
+</DOS>
+    <DONTS>Avoid lifting heavy objects	
+</DONTS>
+  </WEEK>
+  <WEEK id="10">
+    <BABYGROWTH>Your tiny baby has started moving in your stomach	
+</BABYGROWTH>
+    <DIET>Have jiggery after meals every day. It is a good source of iron.	
+</DIET>
+    <MEDICALCARE>Take your second TT injection	
+</MEDICALCARE>
+    <DOS>Try to get at least 8 hours of sleep at night	
+</DOS>
+    <DONTS>Avoid having tea with meals	
+</DONTS>
+  </WEEK>
+  <WEEK id="11">
+    <BABYGROWTH>Your baby is developing taste buds in its mouth	
+</BABYGROWTH>
+    <DIET>Eat fiber rich foods like whole grains, salad, orange etc to avoid constipation	
+</DIET>
+    <MEDICALCARE>Tests for HIV and anemia	
+</MEDICALCARE>
+    <DOS>Take rest in between work during the day	
+</DOS>
+    <DONTS>Try avoiding spicy and oily food to prevent heartburn	
+</DONTS>
+  </WEEK>
+  <WEEK id="12">
+    <BABYGROWTH>Your baby can now feel pain so be careful to not have any shocks or injury	
+</BABYGROWTH>
+    <DIET>Eat papaya, orange, pumpkin, banana for vitamins	
+</DIET>
+    <MEDICALCARE>Visit PHC for routine health checkup- BP, anemia and weight 	
+</MEDICALCARE>
+    <DOS>Start saving money for expenses involved in delivery of the baby	
+</DOS>
+    <DONTS>Avoid lifting heavy objects	
+</DONTS>
+  </WEEK>
+  <WEEK id="13">
+    <BABYGROWTH>Your baby is learning to suck so that it can suckle your milk after birth	
+</BABYGROWTH>
+    <DIET>Take iron rich foods like jaggery, roasted chana, beans, chiwra	
+</DIET>
+    <MEDICALCARE>If you have pain while urinating, talk your ASHA. It can be a urine infection	
+</MEDICALCARE>
+    <DOS>Eat small meals at frequent intervals	
+</DOS>
+    <DONTS>If you feel the need to urinate do not try to avoid or delay	
+</DONTS>
+  </WEEK>
+  <WEEK id="14">
+    <BABYGROWTH>Baby’s bones are getting stronger now	
+</BABYGROWTH>
+    <DIET>Eat calcium rich foods like milk and milk products, egg, green leafy vegetables for growth of your baby’s bones	
+</DIET>
+    <MEDICALCARE>If you feel a craving for soil talk to your doctor and do not eat soil. It can lead to worms and infection.	
+</MEDICALCARE>
+    <DOS>Try resting for two hours during the day 	
+</DOS>
+    <DONTS>Avoid having tea with meals	
+</DONTS>
+  </WEEK>
+  <WEEK id="15">
+    <BABYGROWTH>The baby has tiny fingernails now	
+</BABYGROWTH>
+    <DIET>Eat green leafy vegetables at least one time everyday	
+</DIET>
+    <MEDICALCARE>Recognize danger signs- sharp stomachache, high fever, bleeding, smelly discharge, convulsions, prolonged headache 	
+</MEDICALCARE>
+    <DOS>Keep engaged in light household chores actively	
+</DOS>
+    <DONTS>Do not stay on empty stomach in the morning	
+</DONTS>
+  </WEEK>
+  <WEEK id="16">
+    <BABYGROWTH>Umbilical cord develops in this week (Hindi name from NIPI)	
+</BABYGROWTH>
+    <DIET>Eat daals, soyabean, egg for proteins 	
+</DIET>
+    <MEDICALCARE>If you feel very thirsty and urinate often, tell your doctor it may be diabetes.	
+</MEDICALCARE>
+    <DOS>Eat small meals at frequent intervals	
+</DOS>
+    <DONTS>Do not attempt to know sex of the fetus. It is illegal	
+</DONTS>
+  </WEEK>
+  <WEEK id="17">
+    <BABYGROWTH>Your baby moves actively now	
+</BABYGROWTH>
+    <DIET>Take iron rich foods like jaggery, roasted chana, beans, chiwra	
+</DIET>
+    <MEDICALCARE>Take iron and folic acid tablets regularly. They are available free of cost at PHC	
+</MEDICALCARE>
+    <DOS>Always buy iodized salt	
+</DOS>
+    <DONTS>Avoid lifting heavy objects	
+</DONTS>
+  </WEEK>
+  <WEEK id="18">
+    <BABYGROWTH>Tell your family members about baby’s movements and share your joy with them	
+</BABYGROWTH>
+    <DIET>Eat fiber rich foods like whole grains, salad, orange etc to avoid constipation	
+</DIET>
+    <MEDICALCARE>If you see sudden swelling with headache tell your doctor	
+</MEDICALCARE>
+    <DOS>Do not stand or work for long hours	
+</DOS>
+    <DONTS>Do not smoke and consume alcohol, it is harmful for your baby.	
+</DONTS>
+  </WEEK>
+  <WEEK id="19">
+    <BABYGROWTH>Now your baby has developed all major organs like heart, liver, kidney and brain. 	
+</BABYGROWTH>
+    <DIET>Eat calcium rich foods like milk and milk products, egg, green leafy vegetables for growth of your baby’s bones	
+</DIET>
+    <MEDICALCARE>Visit PHC for routine health checkup- BP, anemia and weight	
+</MEDICALCARE>
+    <DOS>Wear comfortable and loose clothes	
+</DOS>
+    <DONTS>If you feel the need to urinate do not try to avoid or delay	
+</DONTS>
+  </WEEK>
+  <WEEK id="20">
+    <BABYGROWTH>You can now recognize your baby’s sleeping routine by its kicking and moving inside	
+</BABYGROWTH>
+    <DIET>Drink plenty of water to avoid constipation and heartburn	
+</DIET>
+    <MEDICALCARE>If you notice any change or decrease in baby’s movements, talk to the doctor	
+</MEDICALCARE>
+    <DOS>Start saving money for expenses involved in delivery of the baby	
+</DOS>
+    <DONTS>Avoid lifting heavy objects	
+</DONTS>
+  </WEEK>
+  <WEEK id="21">
+    <BABYGROWTH>You can sing and talk to your baby as it can hear your voice now	
+</BABYGROWTH>
+    <DIET>Include daal in at least one meal of the day	
+</DIET>
+    <MEDICALCARE>Tests for HIV and anemia	
+</MEDICALCARE>
+    <DOS>Listen to good music 	
+</DOS>
+    <DONTS>Do not talk in loud voice near baby, it can frighten him	
+</DONTS>
+  </WEEK>
+  <WEEK id="22">
+    <BABYGROWTH>Whatever you eat will now be tasted by your baby as it has developed taste buds now	
+</BABYGROWTH>
+    <DIET>Increase the amount of food as your baby is growing and need more food	
+</DIET>
+    <MEDICALCARE>If you feel a craving for soil talk to your doctor and do not eat soil. It can lead to worms and infection	
+</MEDICALCARE>
+    <DOS>Eat small meals at frequent intervals	
+</DOS>
+    <DONTS>Try avoiding spicy and oily food to prevent heartburn	
+</DONTS>
+  </WEEK>
+  <WEEK id="23">
+    <BABYGROWTH>Feel your baby kicking and moving inside you	
+</BABYGROWTH>
+    <DIET>Take iron rich foods like jaggery, roasted chana, beans, chiwra	
+</DIET>
+    <MEDICALCARE>Recognize danger signs- sharp stomachache, high fever, bleeding, smelly discharge, convulsions, prolonged headache 	
+</MEDICALCARE>
+    <DOS>Start saving money for expenses involved in delivery of the baby	
+</DOS>
+    <DONTS>Do not worry if your breasts feel heavier, your body is preparing to breastfeed your baby	
+</DONTS>
+  </WEEK>
+  <WEEK id="24">
+    <BABYGROWTH>Always be happy and enjoy your motherhood	
+</BABYGROWTH>
+    <DIET>Eat plenty of seasonal vegetables and fruits to get vitamins and minerals	
+</DIET>
+    <MEDICALCARE>Visit PHC for routine health checkup- BP, anemia and weight	
+</MEDICALCARE>
+    <DOS>Try resting for two hours during the day	
+</DOS>
+    <DONTS>Do not attempt to know sex of the fetus. It is illegal	
+</DONTS>
+  </WEEK>
+  <WEEK id="25">
+    <BABYGROWTH>Your baby can now recognize its mother’s and father’s voices</BABYGROWTH>
+    <DIET>Take protein rich foods like pulses, soyabean, egg, sprouted etc.	
+</DIET>
+    <MEDICALCARE>Take iron and folic acid tablets regularly. They are available free of cost at PHC	
+</MEDICALCARE>
+    <DOS>Always look for the symbol of smiling sun while buying iodized salt	
+</DOS>
+    <DONTS>Talk good things near your baby, it can now hear and remember what it hears.	
+</DONTS>
+  </WEEK>
+  <WEEK id="26">
+    <BABYGROWTH>Make the right decision for your baby by choosing institutional delivery </BABYGROWTH>
+    <DIET>Eat fiber rich foods like whole grains, salad, orange etc to avoid constipation</DIET>
+    <MEDICALCARE>If you feel very thirsty and urinate often, tell your doctor it may be diabetes.	
+</MEDICALCARE>
+    <DOS>Wear comfortable and loose clothes	
+</DOS>
+    <DONTS>Try not to work or stand for long time	
+</DONTS>
+  </WEEK>
+  <WEEK id="27">
+    <BABYGROWTH>Your baby can blink its eyes and also see dreams now	
+</BABYGROWTH>
+    <DIET>Eat calcium rich foods like milk and milk products, egg, green leafy vegetables for growth of your baby’s bones	
+</DIET>
+    <MEDICALCARE>If swelling occurs on face contact doctor	
+</MEDICALCARE>
+    <DOS>Sleep on your left side	
+</DOS>
+    <DONTS>Do not talk in loud voice or listen t loud music, it can frighten your baby	
+</DONTS>
+  </WEEK>
+  <WEEK id="28">
+    <BABYGROWTH>Your baby now responds to changes in light and sound	
+</BABYGROWTH>
+    <DIET>Take iron rich foods like jaggery, roasted chana, beans, chiwra	
+</DIET>
+    <MEDICALCARE>Never take any medicine/herbs without consulting doctor. It can harm your baby.	
+</MEDICALCARE>
+    <DOS>Keep engaged in light household chores actively	
+</DOS>
+    <DONTS>Try avoiding spicy and oily food to prevent heartburn	
+</DONTS>
+  </WEEK>
+  <WEEK id="29">
+    <BABYGROWTH>First milk or the colostrum is vital for your child	
+</BABYGROWTH>
+    <DIET>Take protein rich foods like pulses, soyabean, egg, sprouted etc. 	
+</DIET>
+    <MEDICALCARE>If you see sudden swelling with headache tell your doctor	
+</MEDICALCARE>
+    <DOS>Discuss with your husband about breastfeeding your baby within first hour. He can be a good support	
+</DOS>
+    <DONTS>Avoid working or standing for long hours	
+</DONTS>
+  </WEEK>
+  <WEEK id="30">
+    <BABYGROWTH>Make sure to have a trained birth attendant for safe and infection-free delivery.
+</BABYGROWTH>
+    <DIET>Eat extra food now as your baby also needs food	
+</DIET>
+    <MEDICALCARE>If you feel craving for soil talk to your doctor and do not eat soil. It can lead to worms and infection	
+</MEDICALCARE>
+    <DOS>Start saving money for expenses involved in delivery of the baby	
+</DOS>
+    <DONTS>Do not smoke and consume alcohol, it is harmful for your baby.	
+</DONTS>
+  </WEEK>
+  <WEEK id="31">
+    <BABYGROWTH>Have you felt your belly tighten suddenly then relax? This is a practice contraction your body is getting ready for labour.</BABYGROWTH>
+    <DIET>Include soyabean, pumpkin, papaya, amla in your diet. 	
+</DIET>
+    <MEDICALCARE>Recognize danger signs- sharp stomachache, high fever, bleeding, smelly discharge, convulsions, prolonged headache 	
+</MEDICALCARE>
+    <DOS>Plan with your family about delivery. For safe delivery choose a hospital, it also gives free services	
+</DOS>
+    <DONTS>Avoid lifting heavy objects 	
+</DONTS>
+  </WEEK>
+  <WEEK id="32">
+    <BABYGROWTH>Newborns catch cold very easily so protect your baby by covering it with warm clothes immediately after birth </BABYGROWTH>
+    <DIET>Eat calcium rich foods like milk and milk products, egg, green leafy vegetables for growth of your baby’s bones	
+</DIET>
+    <MEDICALCARE>If you notice any change or decrease in baby’s movements, talk to the doctor	
+</MEDICALCARE>
+    <DOS>For delivery at home prepare 5 important clean things- blade, thread, cloth, space and a plastic sheet	
+</DOS>
+    <DONTS>Do not sleep on your back	
+</DONTS>
+  </WEEK>
+  <WEEK id="33">
+    <BABYGROWTH>The baby has moved lower in your body which makes it difficult to walk for you	
+</BABYGROWTH>
+    <DIET>Eat fiber rich foods like whole grains, salad, orange etc to avoid constipation	
+</DIET>
+    <MEDICALCARE>Take iron and folic acid tablets regularly. They are available free of cost at PHC	
+</MEDICALCARE>
+    <DOS>Get all relevant information about delivery and baby’s vaccination from ASHA	
+</DOS>
+    <DONTS>Try not to work or stand for long time	
+</DONTS>
+  </WEEK>
+  <WEEK id="34">
+    <BABYGROWTH>Start making preparations for your newborn	
+</BABYGROWTH>
+    <DIET>Take iron rich foods like jaggery, roasted chana, beans, chiwra	
+</DIET>
+    <MEDICALCARE>Visit PHC for routine health checkup- BP, anemia and weight	
+</MEDICALCARE>
+    <DOS>Make transport arrangements to reach hospital immediately whenever required	
+</DOS>
+    <DONTS>Try avoiding spicy and oily food to prevent heartburn	
+</DONTS>
+  </WEEK>
+  <WEEK id="35">
+    <BABYGROWTH>Do not worry if your child is born earlier than 9 months, take special care of it</BABYGROWTH>
+    <DIET>Increase the amount of food as your baby is growing and need more food	</DIET>
+    <MEDICALCARE>Recognize danger signs- sharp stomachache, high fever, bleeding, smelly discharge, convulsions, prolonged headache </MEDICALCARE>
+    <DOS>Small meals at frequent interval	
+</DOS>
+    <DONTS>Do not smoke and consume alcohol, it is harmful for your baby.	
+</DONTS>
+  </WEEK>
+  <WEEK id="36">
+    <BABYGROWTH>Do visit your doctor and get all the information related to a safe delivery </BABYGROWTH>
+    <DIET>Include daal in at least one meal of the day	
+</DIET>
+    <MEDICALCARE>If you feel very thirsty and urinate often, tell your doctor it may be diabetes.	
+</MEDICALCARE>
+    <DOS>Stay relaxed and walk slowly	
+</DOS>
+    <DONTS>Do not forget to take iron and folic acid tablet everyday	
+</DONTS>
+  </WEEK>
+  <WEEK id="37">
+    <BABYGROWTH>If you have been asked to have an operation, don't panic. Sometimes it is the safest option for both you and your baby</BABYGROWTH>
+    <DIET>Take protein rich foods like pulses, soyabean, egg, sprouted etc.	
+</DIET>
+    <MEDICALCARE>If you see sudden swelling with headache tell your doctor	
+</MEDICALCARE>
+    <DOS>Save money for expenses involved in delivery of the baby	
+</DOS>
+    <DONTS>Do not sleep on your back	
+</DONTS>
+  </WEEK>
+  <WEEK id="38">
+    <BABYGROWTH>Proper spacing between two children is important for your as well as baby’s health</BABYGROWTH>
+    <DIET>Continue to eat fiber rich foods like whole grains, salad, orange etc to avoid constipation	
+</DIET>
+    <MEDICALCARE>If you notice any change or decrease in baby’s movements, talk to the doctor	
+</MEDICALCARE>
+    <DOS>Wear comfortable and loose clothes	
+</DOS>
+    <DONTS>Try not to work or stand for long time	
+</DONTS>
+  </WEEK>
+  <WEEK id="39">
+    <BABYGROWTH>Your baby needs your love and care whether a boy or a girl, look after them equally</BABYGROWTH>
+    <DIET>Continue to eat plenty of seasonal vegetables and fruits to get vitamins and minerals	
+</DIET>
+    <MEDICALCARE>Take iron and folic acid tablets regularly. They are available free of cost at PHC	
+</MEDICALCARE>
+    <DOS>Prepare a bag of clothes for you and your baby for delivery in hospital	
+</DOS>
+    <DONTS>Do not put anything on the stump of umbilical cord of your baby after delivery	
+</DONTS>
+  </WEEK>
+  <WEEK id="40">
+    <BABYGROWTH>Feel happy and prepared to welcome your new baby	
+</BABYGROWTH>
+    <DIET>Eat nutritious food with lots of fiber and iron.	
+</DIET>
+    <MEDICALCARE>If you feel labor pain or see fluid discharge from vagina, immediately reach hospital. 	
+</MEDICALCARE>
+    <DOS>Stay relaxed and share your feelings with family members	
+</DOS>
+    <DONTS>Do not forget to breastfeed your baby with colostrum within first hour of birth	
+</DONTS>
+  </WEEK>
+</WMCMesage>

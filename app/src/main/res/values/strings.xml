@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MiraChannel</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="setting_title">Refresh Device</string>
+    <string name="setting_title_H">रिफ्रेश डिवाइस </string>
+
+    <string-array name="drawerItems">
+        <item>Language</item>
+        <item>Upload Data</item>
+         <item>Referesh Record</item>
+        <!--<item>Referesh Device</item>-->
+
+    </string-array>
+
+    <string-array name="drawerItems_H">
+        <item>भाषा </item>
+        <item>अपलोड डेटा </item>
+        <item>रिकॉर्ड रिफ्रेश </item>
+        <!--<item>Referesh Device</item>-->
+
+    </string-array>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string-array name="main_menu">
+        <item>House Registration</item>
+        <item>Registered House</item>
+        <item>Prenatal</item>
+        <item>Immunization</item>
+        <item>Neo_Natal Care</item>
+        <item>Family Planning</item>
+        <item>Adolescent Girl Health</item>
+        <!--<item>Demo Tour</item>-->
+    </string-array>
+
+    <string-array name="main_menu_H">
+        <item>घर का पंजीकरण </item>
+        <item>पंजीकृत घर </item>
+        <item>प्रसव पूर्व</item>
+        <item>टीकाकरण </item>
+        <item>नवजात शिशु देखभाल </item>
+        <item>परिवार नियोजन</item>
+        <item>किशोरी स्वास्थ्य </item>
+    </string-array>
+    
+    <string-array name="prenatal_menu">
+        <item>Women Registration</item>
+        <item>Registered Women</item>
+        <item>Close Case</item>
+        <item>Close Case Report</item>
+        <item>Demo Tour</item>
+    </string-array>
+
+    <string-array name="prenatal_menu_H">
+        <item>महिला पंजीकरण</item>
+        <item>पंजीकृत महिला </item>
+        <item>बंद केस </item>
+        <item>बंद केस रिपोर्ट</item>
+        <item>डेमो</item>
+    </string-array>
+    <string-array name="neaonatal_menu">
+        <item>Choice of Delivery</item>
+        <item>Breast Feeding</item>
+        <item>Danger Signs</item>s
+    </string-array>
+
+
+    <string-array name="neaonatal_menu_H">
+        <item>प्रसव का चुनाव</item>
+        <item>स्तनपान</item>
+        <item>खतरे के लक्षण</item>s
+    </string-array>
+
+
+    <string-array name="familyplanning_menu">
+        <item>Know Your Safe Days</item>
+        <item>FP Methods</item>
+    </string-array>
+
+    <string-array name="familyplanning_menu_H">
+        <item>सुरक्षित दिन जानें</item>
+        <item>परिवार नियोजन के तरीके </item>
+    </string-array>
+
+    <string-array name="adolscent_menu">
+        <item>किशोरी ज्ञान</item>
+        <item>किशोरी कहनियाँ</item>
+        <item>किशोरी खेल</item>
+    </string-array>
+
+
+    <string-array name="immunz_menu">
+        <item>Child Registration</item>
+        <item>Registered Child</item>
+        <item>Demo Tour</item>
+    </string-array>
+
+
+    <string-array name="immunz_menu_H">
+        <item>शिशु पंजीकरण </item>
+        <item>पंजीकृत शिशु </item>
+        <item>डेमो</item>
+    </string-array>
+
+
+    <string name="hous_number">House Number</string>
+    <string name="familyHead">Family Head</string>
+    <string name="address">Address</string>
+    <string name="family_members">Total Family Members</string>
+
+    <string-array name="familymemb">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+    </string-array>
+
+    <string name="marriedWomen">Married Women</string>
+    <string name="unmarriedWomen">UnMarried Women</string>
+    <string name="adolecence_girls">Adolecence Girls</string>
+    <string name="childlessfive">Child Less than Five Years</string>
+    <string name="submit">Submit</string>
+    <string name="women_name">Woman Name</string>
+    <string name="husband_name">Husband Name</string>
+    <string name="age">Age</string>
+    <string name="lmc_date">LMC Date</string>
+    <string name="number_child">Number of Children</string>
+    <string name="child_name">Child Name</string>
+    <string name="mother_name">Mother Name</string>
+    <string name="father_name">Father Name</string>
+    <string name="sex">Sex</string>
+
+
+
+    <string name="enter_child">Enter Number Of Child</string>
+    <string name="choice_of_Del_house">In House</string>
+    <string name="choice_of_Del_hospital">In Hospital</string>
+   <string name="house_number">House Number</string>
+    <string name="txt_fp_name">Name</string>
+    <string name="txt_fp_date">Cycle</string>
+    <string name="fp_date">Date</string>
+    <string name="status">Status</string>
+    <string name="calendar">Calendar </string>
+
+
+
+    <string-array name="childsex">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <color name="childcell_color">#F0F0F0</color>
+    <color name="red_color">#FF5D5D</color>
+    <color name="green_color">#5DFF65</color>
+    <color name="blue_color">#5D65FF</color>
+    <color name="whit_color">#00000000</color>
+    <color name="color_medical">#50c6f2</color>
+    <color name="color_diet">#b6ade5</color>
+    <color name="color_dos">#94c975</color>
+    <color name="color_donts">#fb8b8c</color>
+    <color name="color_yellow">#FFFF00</color>
+    <color name="color_darkgreen">#105C06</color>
+    <color name="color_today">#FFFFFF</color>
+
+    <color name="yellow_color_imu">#d2b14e</color>
+    <color name="green_color_imu">#8cbf4b</color>
+    <color name="blue_color_imu">#71a7d8</color>
+    <color name="pink_color_imu">#c8a0b8</color>
+    <color name="red_color_imu">#F20C0C</color>
+
+
+    <color name="header1">#5489b6</color>
+    <color name="header2">#a6882e</color>
+    <color name="header3">#a79d3e</color>
+    <color name="header4">#b07f39</color>
+    <color name="header5">#d78a5e</color>
+    <color name="header6">#b87d84</color>
+
+    <color name="bg1">#76abd7</color>
+    <color name="bg2">#d2b14e</color>
+    <color name="bg3">#c6bb50</color>
+    <color name="bg4">#d8ab62</color>
+    <color name="bg5">#f2b985</color>
+    <color name="bg6">#de9da6</color>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dob">Date of Birth</string>
+    <string name="title_activity_neo_natal_care">NeoNatalCare</string>
+    <string name="title_activity_neo_natal_care_gen_sce">NeoNatalCareGenSce</string>
+    <string name="title_activity_adolescent_girl">AdolescentGirl</string>
+
+
+    <string-array name="cycledays">
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+    </string-array>
+
+    <string name="title_activity_family_planing_circle">FamilyPlaningCircle</string>
+
+    <color name="TRANSPARENT">#00000000</color>
+
+    <string name="title_activity_family_calendar">FamilyCalendar</string>
+
+</resources>

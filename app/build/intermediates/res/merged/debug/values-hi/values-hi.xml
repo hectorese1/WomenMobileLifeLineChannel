@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="childsex">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="address">घर का पता </string>
+    <string name="adolecence_girls">किशोरियों की संख्या </string>
+    <string name="age">उम्र </string>
+    <string name="calendar">कलेंडर </string>
+    <string name="cancel">कैंसिल</string>
+    <string name="child_name">शिशु का नाम </string>
+    <string name="childlessfive">पांच साल से छोटे बच्चे </string>
+    <string name="choice_of_Del_hospital">अस्पताल में</string>
+    <string name="choice_of_Del_house">घर में</string>
+    <string name="dob">शिशु की जन्म तिथि </string>
+    <string name="enter_child"> शिशु संख्या </string>
+    <string name="familyHead">मुखिया का नाम </string>
+    <string name="family_members">परिवार के कुल सदस्य </string>
+    <string name="father_name">पिता का नाम</string>
+    <string name="fp_date">तारीख</string>
+    <string name="hous_number">घर की संख्या </string>
+    <string name="house_number">घर की संख्या </string>
+    <string name="husband_name">पति का नाम </string>
+    <string name="lmc_date">एल एम सी तारीख </string>
+    <string name="marriedWomen">विवाहित महिला संख्या </string>
+    <string name="mother_name">माता का नाम </string>
+    <string name="number_child">कुल शिशु संख्या </string>
+    <string name="sex">शिशु का लिंग </string>
+    <string name="status">परिणाम</string>
+    <string name="submit">जमा करें </string>
+    <string name="txt_fp_date">मासिक चक्र </string>
+    <string name="txt_fp_name">नाम</string>
+    <string name="unmarriedWomen">अविवाहित महिला संख्या </string>
+    <string name="women_name">महिला का नाम </string>
+</resources>

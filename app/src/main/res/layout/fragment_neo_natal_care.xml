@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/green_color" xmlns:app="http://schemas.android.com/apk/res/com.ali.mirachannel">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/neo_natalcare"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/header2"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/txt_neo_title"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Large Text"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <ImageButton
+                android:id="@+id/img_btn_neo_speaker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/speaker_on" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/img_neo_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/w04_n"
+            android:visibility="gone" />
+
+        <com.ali.mirachannel.CustomView
+            android:id="@+id/customView_neo"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            app:exampleColor="#00000000"
+            app:exampleDimension="15dp"
+            app:exampleDrawable="@drawable/pre_0"
+            app:exampleString="Neo_natal"
+            android:background="@color/bg4" />
+
+        <TextView
+            android:id="@+id/txt_neo_descp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:text="Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/vaccineLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue_color" >
+
+      <LinearLayout
+       android:orientation="horizontal"
+       android:id="@+id/layout"
+
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content">
+
+
+             <ImageView
+              android:id="@+id/vaccineImgMark"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignParentLeft="true"
+              android:layout_alignParentTop="true"
+              android:padding="3dp"
+              android:src="@drawable/injection_small_icon"
+               />
+       </LinearLayout>
+    <!--<ImageView-->
+        <!--android:id="@+id/vaccineImgMark"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentLeft="true"-->
+
+        <!--android:layout_alignParentTop="true"-->
+        <!--android:padding="3dp"-->
+        <!--android:src="@drawable/injection_small_icon" />-->
+
+    <TextView
+        android:id="@+id/vaccineName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/layout"
+        android:text="Vaccine Name"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/vaccineStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/vaccineName"
+        android:layout_below="@+id/vaccineName"
+        android:text="Small Text"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="10sp"
+        android:typeface="normal" />
+
+    <TextView
+        android:id="@+id/vaccineDiff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/layout"
+        android:layout_alignParentRight="true"
+        android:text="(1-45)"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>

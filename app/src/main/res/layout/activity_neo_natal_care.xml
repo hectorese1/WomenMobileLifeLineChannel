@@ -1,0 +1,91 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:id="@+id/lay_neo_sce_0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:visibility="gone">
+
+        <Button
+            android:id="@+id/btn_neo_sc_0_0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="प्रसव का चुनाव" />
+
+        <Button
+            android:id="@+id/btn_neo_sc_0_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="स्तनपान" />
+
+        <Button
+            android:id="@+id/btn_neo_sc_0_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="खतरे के लक्षण" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay_neo_sce_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dp"
+        >
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/at_home_small"
+            android:id="@+id/imageView2" />
+
+        <Button
+            android:id="@+id/btn_neo_sc_1_0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/choice_of_Del_house" />
+
+        <!--<Button-->
+            <!--android:id="@+id/btn_neo_sc_1_1"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="अस्पताल में" />-->
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay_neo_sce_11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dp"
+        android:layout_marginTop="50dp">
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/at_hospital_small"
+            android:id="@+id/imageView21" />
+
+        <Button
+            android:id="@+id/btn_neo_sc_1_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/choice_of_Del_hospital"  />
+
+    </LinearLayout>
+
+
+</FrameLayout>

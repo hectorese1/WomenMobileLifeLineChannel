@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/zmq162/Faiz Drive/Project/WomenMobileLifeLineChannel/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/home/zmq162/Faiz Drive/Project/WomenMobileLifeLineChannel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout-v11/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/home/zmq162/FaizDrive/Project/WomenMobileLifeLineChannel/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/home/zmq162/FaizDrive/Project/WomenMobileLifeLineChannel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout-v11/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/home/zmq153/AndroidStudioProjects/MIra_07Jan2016/07thJan2016/WomenMobileLifeLineChannel/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/home/zmq153/AndroidStudioProjects/MIra_07Jan2016/07thJan2016/WomenMobileLifeLineChannel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout-v11/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/home/zmq162/faiz_studio_workspace/WomenMobileLifeLineChannel/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/home/zmq162/faiz_studio_workspace/WomenMobileLifeLineChannel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout-v11/abc_action_bar_decor.xml"
+    }
+]

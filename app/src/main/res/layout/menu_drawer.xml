@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawerLayout"
+    android:layout_width="match_parent" 
+    android:layout_height="match_parent" >
+
+    <FrameLayout 
+     android:id="@+id/mainContent"
+    android:layout_width="match_parent" 
+    android:layout_height="match_parent">
+    </FrameLayout>
+
+    <ListView
+        android:background="#C0C0C0"
+        android:divider = "#0d0d0d"
+        android:dividerHeight="1dp"
+    	android:id="@+id/drawerList"
+    	android:entries="@array/drawerItems"
+    	android:layout_width="240dp"
+        android:layout_height="match_parent"
+    	android:layout_gravity="left"
+        android:layout_marginBottom="3dp" >
+    </ListView>
+
+
+
+    <!--<ListView-->
+        <!--android:id="@+id/right_drawer"-->
+        <!--android:layout_width="240dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_gravity="end"-->
+        <!--android:choiceMode="singleChoice"-->
+        <!--android:divider="@android:color/transparent"-->
+        <!--android:dividerHeight="0dp"-->
+        <!--android:background="#aea9a8"-->
+        <!--/>-->
+
+    
+</android.support.v4.widget.DrawerLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/zmq162/faiz_studio_workspace/WomenMobileLifeLineChannel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/home/zmq162/faiz_studio_workspace/WomenMobileLifeLineChannel/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-18.0.0_9121e5dd38c88244ea3e35536193ab86edd80acb.jar" />
+    </item>
+    <item
+        jar="/home/zmq162/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.3/1262995965440e28ba5c4d480c9c9ab4ccce84cc/picasso-2.3.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1262995965440e28ba5c4d480c9c9ab4ccce84cc">
+        <dex dex="/home/zmq162/faiz_studio_workspace/WomenMobileLifeLineChannel/app/build/intermediates/pre-dexed/debug/picasso-2.3.3_efef5f2ecf2f88fcf34b7af68eebeac0d6b24d0b.jar" />
+    </item>
+    <item
+        jar="/home/zmq162/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/zmq162/faiz_studio_workspace/WomenMobileLifeLineChannel/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_4ec25407e70a741796c6d89197f17792840b57b3.jar" />
+    </item>
+
+</items>

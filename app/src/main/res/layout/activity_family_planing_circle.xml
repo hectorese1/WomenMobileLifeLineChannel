@@ -1,0 +1,49 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res/com.ali.mirachannel"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FamilyPlaningCircle" >
+
+    <LinearLayout
+        android:background="@color/header5"
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/txt_fp_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/txt_fp_name"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/txt_fp_date"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text="@string/fp_date"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button_calendar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@color/header5"
+        android:text="@string/calendar" />
+
+    <com.ali.mirachannel.CustomViewFamily
+        android:id="@+id/customViewFamily1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:exampleColor="@color/TRANSPARENT"
+        app:exampleDimension="1dp"
+        app:exampleDrawable="@color/TRANSPARENT"
+        app:exampleString="Family Circle" />
+
+</FrameLayout>

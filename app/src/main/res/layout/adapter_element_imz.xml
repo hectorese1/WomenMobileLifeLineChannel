@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.ali.mirachannel"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_dos" >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="top"
+    android:gravity="center|top"
+    android:orientation="vertical" >
+
+<LinearLayout
+        android:id="@+id/adapter_elm_imz_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="3"
+        android:background="@color/header4" >
+
+        <TextView
+            android:id="@+id/pre_header"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+
+            android:layout_marginLeft="10dp"
+            android:text="Large Text"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_weight="2" />
+
+      <!--  <ImageView
+            android:id="@+id/pre_image"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+
+            android:src="@drawable/pre_0"
+            android:visibility="gone"
+            android:layout_weight="1" />-->
+
+        <ImageButton
+            android:id="@+id/imageButton_sound"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+
+            android:gravity="right"
+            android:src="@drawable/speaker_on"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/imu_layout_bg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/bg4"
+        android:orientation="vertical" >
+
+        <com.ali.mirachannel.CustomView
+            android:id="@+id/customView_imz"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            app:exampleColor="#00000000"
+            app:exampleDimension="15dp"
+            app:exampleDrawable="@drawable/w01_b"
+            app:exampleString="Immunization" />
+
+        <TextView
+            android:id="@+id/pre_descrp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="यह आपके मासिक चक्र का अंतिम दिन है जहाँ से गर्भावस्था शुरू होती है"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:visibility="gone" />
+
+
+
+    </LinearLayout>
+</LinearLayout>
+
+</FrameLayout>

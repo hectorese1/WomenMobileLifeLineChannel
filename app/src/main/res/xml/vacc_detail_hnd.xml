@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VaccineMessage>
+
+    <VaccId id="1">
+    <VaccName>Hepatitis B-0</VaccName>
+    <VaccMessage>हैपेटाईटिस बी-0 का टीका जन्म के 24 घंटों के अन्दर लगाया जाता है</VaccMessage>
+    <AdministrationMSG>हैपेटाईटिस बी का टीका जांघ की मांसपेशियों में लगाया जाता है  </AdministrationMSG>
+    <AboutMsg>यह टीका हैपेटाईटिस बी से बचाने के लिए लगाया जाता है जो जिगर में होने वाला एक संक्रामक रोग है	</AboutMsg>
+  </VaccId>
+
+  <VaccId id="2">
+    <VaccName>OPV-0</VaccName>
+    <VaccMessage>ओ.पी.वी.-0 की दवा जन्म के 15 दिनों के अन्दर पिलाई जाती है</VaccMessage>
+    <AdministrationMSG>पोलियो की दवा बच्चे के मुँह में बूंदों के रूप में पिलाई जाती है </AdministrationMSG>
+    <AboutMsg>ओ.पी.वी.-0 की बूँदें पोलियो से बचाने के लिए पिलाई जाती हैं। पोलियो से मांसपेशियाँ कमज़ोर हो जाती है और लकवा मार जाता है</AboutMsg>
+  </VaccId>
+
+  <VaccId id="3">
+     <VaccName>BCG</VaccName>
+    <VaccMessage>बी.सी.जी का टीका जन्म के तुरंत बाद लगाया जाता है</VaccMessage>
+    <AdministrationMSG>बी.सी.जी. का टीका उल्टी बांह में ऊपर की ओर लगाया जाता है </AdministrationMSG>
+    <AboutMsg>बी.सी.जी का टीका टी.बी. या तपेदिक से बचने के लिए लगाया जाता है जो फेफड़ों का एक रोग है  </AboutMsg>
+   </VaccId>
+
+    <VaccId id="4">
+    <VaccName>OPV-1</VaccName>
+    <VaccMessage>ओ.पी.वी.-1 की बूँदें डेढ़ महीने की उम्र में पिलाई जाती है  </VaccMessage>
+    <AdministrationMSG>पोलियो की दवा बच्चे के मुँह में बूंदों के रूप में पिलाई जाती है </AdministrationMSG>
+    <AboutMsg>ओ.पी.वी.-1 की बूँदें पोलियो से बचाने के लिए पिलाई जाती हैं। पोलियो से मांसपेशियां कमज़ोर हो जाती है और लकवा मार जाता है</AboutMsg>
+    </VaccId>
+
+    <VaccId id="5">
+    <VaccName>Pentavalent-1</VaccName>
+    <VaccMessage>पेंटावैलेंट-1 का टीका डेढ़ महीने की उम्र में लगाया जाता है</VaccMessage>
+    <AdministrationMSG> पेंटावैलेंट-1 का टीका जांघ की मांसपेशी में लगाया जाता है  </AdministrationMSG>
+    <AboutMsg>यह टीका जिगर में होने वाले संक्रामक रोगों , डिप्थीरिया, काली खांसी, टिटनस, निमोनिया, दिमागी बुखार आदि बिमारियों से बचाता है</AboutMsg>
+    </VaccId>
+
+  <VaccId id="6">
+    <VaccName>OPV-2</VaccName>
+    <VaccMessage>ओ.पी.वी.-2 की बूँदें ढाई महीने की उम्र में पिलाई जाती है</VaccMessage>
+    <AdministrationMSG>पोलियो की दवा बच्चे के मुँह में बूंदों के रूप में पिलाई जाती है	</AdministrationMSG>
+    <AboutMsg>ओ.पी.वी.-2 की बूँदें पोलियो से बचाने के लिए पिलाई जाती हैं। पोलियो से मांसपेशियाँ कमज़ोर हो जाती है और लकवा मार जाता है</AboutMsg>
+  </VaccId>
+
+
+  <VaccId id="7">
+    <VaccName>Pentavalent-2</VaccName>
+    <VaccMessage>पेंटावैलेंट-2 का टीका ढाई महीने की उम्र में लगाया जाता है</VaccMessage>
+    <AdministrationMSG>पेंटावैलेंट-2 का टीका जांघ की मांसपेशी में लगाया जाता है  </AdministrationMSG>
+    <AboutMsg>यह टीका जिगर में होने वाले संक्रामक रोगों, डिप्थीरिया, काली खांसी, टिटनस, निमोनिया, दिमागी बुखार आदि बिमारियों से बचाता है</AboutMsg>
+  </VaccId>
+
+    <VaccId id="8">
+    <VaccName>OPV-3</VaccName>
+    <VaccMessage>ओ.पी.वी.-3 की बूँदें साढ़े तीन महीने की उम्र में पिलाई जाती है  </VaccMessage>
+    <AdministrationMSG>पोलियो की दवा बच्चे के मुँह में बूंदों के रूप में पिलाई जाती है</AdministrationMSG>
+    <AboutMsg>ओ.पी.वी.-3 की बूँदें पोलियो से बचाने के लिए पिलाई जाती हैं। इस बीमारी में मांसपेशियाँ कमज़ोर हो जाती है और लकवा मार जाता है</AboutMsg>
+  </VaccId>
+
+    <VaccId id="9">
+    <VaccName>Pentavalent-3</VaccName>
+    <VaccMessage>पेंटावैलेंट-3 का टीका साढ़े तीन महीने की उम्र में लगाया जाता है</VaccMessage>
+    <AdministrationMSG>पेंटावैलेंट-3  का टीका जांघ की मांसपेशी में लगाया जाता है  	</AdministrationMSG>
+    <AboutMsg>यह टीका जिगर में होने वाले संक्रामक रोगों , डिप्थीरिया, काली खांसी, टिटनस, निमोनिया, दिमागी बुखार आदि बिमारियों से बचाता है</AboutMsg>
+  </VaccId>
+
+  <VaccId id="10">
+    <VaccName>Measles</VaccName>
+    <VaccMessage>खसरे का टीका 9 से 12 महीने की उम्र में लगाया जाता है</VaccMessage>
+    <AdministrationMSG>खसरे का टीका सीधी बांह में ऊपर की ओर लगाया जाता है</AdministrationMSG>
+    <AboutMsg>यह टीका खसरे की बीमारी से बचाता है जिसमें शिशु को तेज़ बुखार और त्वचा पर लाल चकत्ते हो जाते हैं</AboutMsg>
+  </VaccId>
+
+
+  <VaccId id="11">
+    <VaccName>DPT Booster</VaccName>
+    <VaccMessage>डी.पी.टी. बूस्टर का टीका 16 महीने की उम्र में लगाया जाता है</VaccMessage>
+    <AdministrationMSG>डी.पी.टी. बूस्टर का टीका जांघ के मध्य में लगाया जाता है 	</AdministrationMSG>
+    <AboutMsg>डी.पी.टी. बूस्टर का टीका डिप्थीरिया, काली खांसी और टिटनस से बचाता है। डिप्थीरिया और काली खांसी होने से सांस लेने में कठिनाई होती है। टिटनस माँसपेशियों में ऐंठन पैदा करता है</AboutMsg>
+  </VaccId>
+
+  <VaccId id="12">
+    <VaccName>OPV Booster</VaccName>
+    <VaccMessage>ओ.पी.वी. बूस्टर की बूँदें 16 महीने की उम्र में पिलाई जाती है  </VaccMessage>
+    <AdministrationMSG>पोलियो की दवा बच्चे के मुँह में बूंदों के रूप में पिलाई जाती है</AdministrationMSG>
+    <AboutMsg>ओ.पी.वी. बूस्टर की बूँदें पोलियो से बचाने के लिए पिलाई जाती हैं। पोलियो से  मांसपेशियाँ कमज़ोर हो जाती है और लकवा मार जाता है</AboutMsg>
+  </VaccId>
+
+    <VaccId id="13">
+    <VaccName>Vitamin-A</VaccName>
+    <VaccMessage>विटामिन-ए की बूँदें 9 महीने की उम्र में पिलाई जाती है </VaccMessage>
+    <AdministrationMSG>विटामिन-ए बच्चे के मुँह में बूंदों के रूप में दिया जाता है 	</AdministrationMSG>
+    <AboutMsg>विटामिन-ए की बूँदें रतौंधी से बचाने के लिए पिलाई जाती हैं। यह बीमारी होने पर व्यक्ति की अँधेरे में देखने की क्षमता कम हो जाती है  	</AboutMsg>
+  </VaccId>
+
+    <VaccId id="14">
+    <VaccName>Measles Booster</VaccName>
+    <VaccMessage>खसरे का बूस्टर टीका सीधी बांह में ऊपर की ओर लगाया जाता है</VaccMessage>
+    <AdministrationMSG>खसरे का टीका सीधी बांह में ऊपर की ओर लगाया जाता है	</AdministrationMSG>
+    <AboutMsg>यह टीका खसरे की बीमारी से बचाता है जिसमें शिशु को तेज बुखार और त्वचा पर लाल चकत्ते हो जाते हैं	</AboutMsg>
+  </VaccId>
+
+</VaccineMessage>
+
+
+<!--<VaccineMessage>-->
+    <!--<VaccId id="1">-->
+        <!--<VaccName>Hepatitis B0</VaccName>-->
+        <!--<VaccMessage>हैपेटाईटिस बी-0 का टीका जन्म के 24 घंटों के अन्दर लगाया जाता है</VaccMessage>-->
+        <!--<AdministrationMSG>हैपेटाईटिस बी का टीका जांघ की मांसपेशियों में लगाया जाता है  </AdministrationMSG>-->
+        <!--<AboutMsg>यह टीका हैपेटाईटिस बी से बचाने के लिए लगाया जाता है जो जिगर में होने वाला एक संक्रामक रोग है-->
+        <!--</AboutMsg>-->
+    <!--</VaccId>-->
+    <!--<VaccId id="2">-->
+        <!--<VaccName>OPV 0</VaccName>-->
+        <!--<VaccMessage>ओ.पी.वी.-0 की दवा जन्म के 15 दिनों के अन्दर पिलाई जाती है</VaccMessage>-->
+        <!--<AdministrationMSG>पोलियो की दवा बच्चे के मुँह में बूंदों के रूप में पिलाई जाती है </AdministrationMSG>-->
+        <!--<AboutMsg>ओ.पी.वी.-0 की बूँदें पोलियो से बचाने के लिए पिलाई जाती हैं। पोलियो से मांसपेशियां कमज़ोर हो जाती है और लकवा मार जाता है-->
+        <!--</AboutMsg>-->
+    <!--</VaccId>-->
+    <!--<VaccId id="3">-->
+        <!--<VaccName>BCG</VaccName>-->
+        <!--<VaccMessage>बी.सी.जी का टीका जन्म के तुरंत बाद लगाया जाता है</VaccMessage>-->
+        <!--<AdministrationMSG>बी.सी.जी. का टीका उल्टी बांह में ऊपर की ओर लगाया जाता है-->
+        <!--</AdministrationMSG>-->
+        <!--<AboutMsg>बी.सी.जी का टीका टी.बी. या तपेदिक से बचने के लिए लगाया जाता है जो फेफड़ों का एक रोग है-->
+        <!--</AboutMsg>-->
+    <!--</VaccId>-->
+    <!--<VaccId id="4">-->
+        <!--<VaccName>Hepatitis B1</VaccName>-->
+        <!--<VaccMessage>हैपेटाईटिस बी-1 का टीका डेढ़ महीने की उम्र में लगाया जाता है</VaccMessage>-->
+        <!--<AdministrationMSG>हैपेटाईटिस बी-1 का टीका जांघ की मांसपेशी में लगाया जाता है-->
+        <!--</AdministrationMSG>-->
+        <!--<AboutMsg>यह टीका हैपेटाईटिस बी से बचाने के लिए लगाया जाता है जो जिगर में होने वाला एक संक्रामक रोग है-->
+        <!--</AboutMsg>-->
+    <!--</VaccId>-->
+    <!--<VaccId id="5">-->
+        <!--<VaccName>OPV 1</VaccName>-->
+        <!--<VaccMessage>ओ.पी.वी.-1 की बूँदें डेढ़ महीने की उम्र में पिलाई जाती है  </VaccMessage>-->
+        <!--<AdministrationMSG>पोलियो की दवा बच्चे के मुँह में बूंदों के रूप में पिलाई जाती है </AdministrationMSG>-->
+        <!--<AboutMsg>ओ.पी.वी.-1 की बूँदें पोलियो से बचाने के लिए पिलाई जाती हैं। पोलियो से मांसपेशियां कमज़ोर हो जाती है और लकवा मार जाता है-->
+        <!--</AboutMsg>-->
+    <!--</VaccId>-->
+    <!--<VaccId id="6">-->
+        <!--<VaccName>DPT 1</VaccName>-->
+        <!--<VaccMessage>डी.पी.टी.-1 का टीका डेढ़ महीने की उम्र में लगाया जाता है</VaccMessage>-->
+        <!--<AdministrationMSG>डी.पी.टी.-1का टीका जांघ के मध्य में लगाया जाता है-->
+        <!--</AdministrationMSG>-->
+        <!--<AboutMsg>डी.पी.टी.-1का टीका डिप्थीरिया, काली खांसी और टिटनस से बचाता है। डिप्थीरिया और काली खांसी होने से सांस लेने में कठिनाई होती है। टिटनस मांसपेशियों ऐंठन पैदा करता है-->
+        <!--</AboutMsg>-->
+    <!--</VaccId>-->
+    <!--<VaccId id="7">-->
+        <!--<VaccName>Hepatitis B2</VaccName>-->
+        <!--<VaccMessage>हैपेटाईटिस बी-2 का टीका ढाई महीने पर लगाया जाता है</VaccMessage>-->
+        <!--<AdministrationMSG>हैपेटाईटिस बी-2 का इंजेक्शन जांघ की मांसपेशी में लगाया जाता है-->
+        <!--</AdministrationMSG>-->
+        <!--<AboutMsg>यह टीका हैपेटाईटिस बी-2 से बचाने के लिए लगाया जाता है जो जिगर में होने वाला एक संक्रामक रोग है-->
+        <!--</AboutMsg>-->
+    <!--</VaccId>-->
+    <!--<VaccId id="8">-->
+        <!--<VaccName>OPV 2</VaccName>-->
+        <!--<VaccMessage>ओ.पी.वी.-2 की बूँदें ढाई महीने की उम्र में पिलाई जाती है</VaccMessage>-->
+        <!--<AdministrationMSG>पोलियो की दवा बच्चे के मुँह में बूंदों के रूप में पिलाई जाती है.-->
+        <!--</AdministrationMSG>-->
+        <!--<AboutMsg>ओ.पी.वी.-2 की बूँदें पोलियो से बचाने के लिए पिलाई जाती हैं। पोलियो से मांसपेशियां कमज़ोर हो जाती है और लकवा मार जाता है-->
+        <!--</AboutMsg>-->
+    <!--</VaccId>-->
+    <!--<VaccId id="9">-->
+        <!--<VaccName>DPT 2</VaccName>-->
+        <!--<VaccMessage>डी.पी.टी.-2 का टीका ढाई महीने की उम्र में लगाया जाता है</VaccMessage>-->
+        <!--<AdministrationMSG>डी.पी.टी.-2 का टीका जांघ के मध्य में लगाया जाता है-->
+        <!--</AdministrationMSG>-->
+        <!--<AboutMsg>डी.पी.टी-2 का टीका डिप्थीरिया, काली खांसी और टिटनस से बचाता है। डिप्थीरिया और काली खांसी होने से सांस लेने में कठिनाई होती है। टिटनस मांसपेशियों में ऐंठन पैदा करता है-->
+        <!--</AboutMsg>-->
+    <!--</VaccId>-->
+    <!--<VaccId id="10">-->
+        <!--<VaccName>Hepatitis B3</VaccName>-->
+        <!--<VaccMessage>हैपेटाईटिस बी-3 का टीका साढ़े तीन महीने की उम्र में लगाया जाता है</VaccMessage>-->
+        <!--<AdministrationMSG>हैपेटाईटिस बी-3 का इंजेक्शन जांघ की मांसपेशी में लगाया जाता है-->
+        <!--</AdministrationMSG>-->
+        <!--<AboutMsg>यह टीका हैपेटाईटिस बी से बचाने के लिए लगाया जाता है जो जिगर में होने वाला एक संक्रामक रोग है-->
+        <!--</AboutMsg>-->
+    <!--</VaccId>-->
+    <!--<VaccId id="11">-->
+        <!--<VaccName>OPV 3</VaccName>-->
+        <!--<VaccMessage>ओ.पी.वी.-3 की बूँदें साढ़े तीन महीने की उम्र में पिलाई जाती है  </VaccMessage>-->
+        <!--<AdministrationMSG>पोलियो की दवा बच्चे के मुँह में बूंदों के रूप में पिलाई जाती है-->
+        <!--</AdministrationMSG>-->
+        <!--<AboutMsg>ओ.पी.वी.-3 की बूँदें पोलियो से बचाने के लिए पिलाई जाती हैं। इस बीमारी में मांसपेशियां कमज़ोर हो जाती है और लकवा मार जाता है-->
+        <!--</AboutMsg>-->
+    <!--</VaccId>-->
+    <!--<VaccId id="12">-->
+        <!--<VaccName>DPT 3</VaccName>-->
+        <!--<VaccMessage>डी.पी.टी.-3 का टीका तीन महीने की उम्र में लगाया जाता है</VaccMessage>-->
+        <!--<AdministrationMSG>डी.पी.टी.-3 का टीका जांघ के मध्य में लगाया जाता है-->
+        <!--</AdministrationMSG>-->
+        <!--<AboutMsg>डी.पी.टी-3 का टीका डिप्थीरिया, काली खांसी और टिटनस से बचाता है। डिप्थीरिया और काली खांसी होने में सांस लेने में कठिनाई होती है। टिटनस मांसपेशियों में ऐंठन पैदा करता है-->
+        <!--</AboutMsg>-->
+    <!--</VaccId>-->
+
+    <!--<VaccId id="13">-->
+        <!--<VaccName>Measles</VaccName>-->
+        <!--<VaccMessage>खसरे का टीका 9 से 12 महीने की उम्र में लगाया जाता है</VaccMessage>-->
+        <!--<AdministrationMSG>खसरे का टीका सीधी बांह में ऊपर की ओर लगाया जाता है-->
+        <!--</AdministrationMSG>-->
+        <!--<AboutMsg>यह टीका खसरे की बीमारी से बचाता है जिसमें शिशु को तेज बुखार और त्वचा पर लाल चकत्ते हो जाते हैं-->
+        <!--</AboutMsg>-->
+    <!--</VaccId>-->
+
+
+    <!--<VaccId id="14">-->
+        <!--<VaccName>DPT Booster</VaccName>-->
+        <!--<VaccMessage>डी.पी.टी. बूस्टर का टीका 16 महीने की उम्र में लगाया जाता है</VaccMessage>-->
+        <!--<AdministrationMSG>डी.पी.टी. बूस्टर का टीका जांघ के मध्य में लगाया जाता है-->
+        <!--</AdministrationMSG>-->
+        <!--<AboutMsg>डी.पी.टी. बूस्टर का टीका डिप्थीरिया, काली खांसी और टिटनस से बचाता है। डिप्थीरिया और काली खांसी होने में सांस लेने में कठिनाई होती है।  टिटनस मांसपेशियों में ऐंठन पैदा करता है-->
+        <!--</AboutMsg>-->
+    <!--</VaccId>-->
+    <!--<VaccId id="15">-->
+        <!--<VaccName>OPV Booster</VaccName>-->
+        <!--<VaccMessage>ओ.पी.वी. बूस्टर की बूँदें 16 महीने की उम्र में पिलाई जाती है  </VaccMessage>-->
+        <!--<AdministrationMSG>पोलियो की दवा बच्चे के मुँह में बूंदों के रूप में पिलाई जाती है-->
+        <!--</AdministrationMSG>-->
+        <!--<AboutMsg>ओ.पी.वी. बूस्टर की बूँदें पोलियो से बचाने के लिए पिलाई जाती हैं। पोलियो में  मांसपेशियां कमज़ोर हो जाती है और लकवा मार जाता है-->
+        <!--</AboutMsg>-->
+    <!--</VaccId>-->
+    <!--<VaccId id="16">-->
+        <!--<VaccName>Vitamin A*</VaccName>-->
+        <!--<VaccMessage>विटामिन-ए की बूँदें 9 महीने की उम्र में पिलाई जाती है </VaccMessage>-->
+        <!--<AdministrationMSG>विटामिन-ए बच्चे के मुँह में बूंदों के रूप में दिया जाता है-->
+        <!--</AdministrationMSG>-->
+        <!--<AboutMsg>विटामिन-ए की बूँदें रतौंधी से बचाने के लिए पिलाई जाती हैं। यह बीमारी होने पर व्यक्ति की अँधेरे में देखने की क्षमता कम हो जाती है-->
+        <!--</AboutMsg>-->
+    <!--</VaccId>-->
+    <!--<VaccId id="17">-->
+        <!--<VaccName>Measles Booster</VaccName>-->
+        <!--<VaccMessage>खसरे का बूस्टर टीका 16 महीने की उम्र में लगाया जाता है</VaccMessage>-->
+        <!--<AdministrationMSG>खसरे का टीका सीधी बांह में ऊपर की ओर लगाया जाता है-->
+        <!--</AdministrationMSG>-->
+        <!--<AboutMsg>यह टीका खसरे की बीमारी से बचाता है जिसमें शिशु को तेज बुखार और त्वचा पर लाल चकत्ते हो जाते हैं-->
+        <!--</AboutMsg>-->
+    <!--</VaccId>-->
+<!--</VaccineMessage>-->

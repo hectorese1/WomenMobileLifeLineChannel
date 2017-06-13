@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ali.mirachannel"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.location" android:required="true" />
+    <uses-feature android:name="android.hardware.location.gps" android:required="false" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.ali.mirachannel.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.ali.mirachannel.MainMenuActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light" >
+        </activity>
+        <activity
+            android:name="com.ali.mirachannel.ImmunizViewPager"
+            android:launchMode="singleTop"
+            android:parentActivityName=".MainMenuActivity"
+            android:theme="@style/Theme.AppCompat.Light" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainMenuActivity" />
+        </activity>
+        <activity
+            android:name="com.ali.mirachannel.HouseRegistration"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.ali.mirachannel.PrenatalViewPager"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.ali.mirachannel.WeeklyInfo"
+            android:launchMode="singleTop"
+            android:parentActivityName=".MainMenuActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light" >
+
+            <!-- Parent activity meta-data to support API level 7+ -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainMenuActivity" />
+        </activity>
+        <activity
+            android:name="com.ali.mirachannel.WeeklyInfoIndivid"
+            android:parentActivityName=".WeeklyInfo"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light" >
+
+            <!-- Parent activity meta-data to support API level 7+ -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".WeeklyInfo" />
+        </activity>
+        <activity
+            android:name="com.ali.mirachannel.ImmunizViewIndivd"
+            android:parentActivityName=".ImmunizViewPager"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light" >
+
+            <!-- Parent activity meta-data to support API level 7+ -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ImmunizViewPager" />
+        </activity>
+        <activity
+            android:name="com.ali.mirachannel.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:windowSoftInputMode="adjustResize|stateVisible" >
+        </activity>
+        <activity
+            android:name="com.ali.mirachannel.NeoNatalCare"
+            android:label="@string/title_activity_neo_natal_care"
+            android:parentActivityName=".ImmunizViewPager"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light" >
+
+            <!-- Parent activity meta-data to support API level 7+ -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ImmunizViewPager" />
+        </activity>
+        <activity
+            android:name="com.ali.mirachannel.NeoNatalCareGenSce"
+            android:label="@string/title_activity_neo_natal_care_gen_sce"
+            android:parentActivityName="com.ali.mirachannel.NeoNatalCare" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.ali.mirachannel.NeoNatalCare" />
+        </activity>
+        <activity
+            android:name="com.ali.mirachannel.AdolescentGirl"
+            android:label="@string/title_activity_adolescent_girl"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.ali.mirachannel.MainMenuActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.ali.mirachannel.MainMenuActivity" />
+        </activity>
+        <activity
+            android:name="com.ali.mirachannel.AdolescentGirlFrag"
+            android:label="@string/title_activity_adolescent_girl"
+            android:parentActivityName="com.ali.mirachannel.AdolescentGirl" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.ali.mirachannel.AdolescentGirl" />
+        </activity>
+        <activity
+            android:name="com.ali.mirachannel.FamilyPlaningCircle"
+            android:label="@string/title_activity_family_planing_circle"
+            android:parentActivityName="com.ali.mirachannel.AdolescentGirl"
+            android:screenOrientation="portrait" android:launchMode="singleTop">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.ali.mirachannel.AdolescentGirl" />
+        </activity>
+        <activity
+            android:name="com.ali.mirachannel.FamilyCalendar"
+            android:label="@string/title_activity_family_calendar"
+            android:parentActivityName="com.ali.mirachannel.FamilyPlaningCircle" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.ali.mirachannel.FamilyPlaningCircle" />
+        </activity>
+    </application>
+
+</manifest>

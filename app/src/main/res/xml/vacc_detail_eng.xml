@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VaccineMessage>
+
+    <VaccId id="1">
+    <VaccName>Hepatitis B-0</VaccName>
+    <VaccMessage>Hepatitis B vaccine is given within first 24 hours of birth</VaccMessage>
+    <AdministrationMSG>Hepatitis B vaccine is given in mid-thigh muscles</AdministrationMSG>
+    <AboutMsg>This vaccine prevents us from Hepatitis B which is an infectious illness of liver.</AboutMsg>
+  </VaccId>
+
+    <VaccId id="2">
+    <VaccName>OPV-0</VaccName>
+    <VaccMessage>OPV 0 is given within 15 days of birth </VaccMessage>
+    <AdministrationMSG>OPV or Oral Polio Vaccine is given as oral drops</AdministrationMSG>
+    <AboutMsg>OPV prevents us from Polio which causes weakening of muscles and paralysis of limbs.</AboutMsg>
+  </VaccId>
+
+    <VaccId id="3">
+    <VaccName>BCG</VaccName>
+    <VaccMessage>BCG vaccine is given in immediately after  birth</VaccMessage>
+    <AdministrationMSG>BCG vaccine is given in left upper arm </AdministrationMSG>
+    <AboutMsg>BCG prevents us from tuberculosis which affects the lungs </AboutMsg>
+  </VaccId>
+
+
+    <VaccId id="4">
+    <VaccName>OPV-1</VaccName>
+    <VaccMessage>OPV 1 is given at 1.5 months of age</VaccMessage>
+    <AdministrationMSG>OPV or Oral Polio Vaccine is given as oral drops</AdministrationMSG>
+    <AboutMsg>OPV prevents us from Polio which causes weakening of muscles and paralysis of limbs.</AboutMsg>
+  </VaccId>
+
+  <VaccId id="5">
+    <VaccName>Pentavalent-1</VaccName>
+    <VaccMessage>Pentavalent-1 is given at 1.5 months of the age.</VaccMessage>
+    <AdministrationMSG>entavalent-1 vaccine is given in the mid-thigh muscles.</AdministrationMSG>
+    <AboutMsg>This vaccine prevents us from infectious illness of liver which includes Diphtheria,Whooping cough,Tetanus,Pneumonia,Brain fever etc</AboutMsg>
+  </VaccId>
+
+  <VaccId id="6">
+    <VaccName>OPV-2</VaccName>
+    <VaccMessage>OPV-2 is given at 2.5 months of age one month after OPV-1ै</VaccMessage>
+    <AdministrationMSG>OPV or Oral polio Vaccine is given as oral drops.</AdministrationMSG>
+    <AboutMsg>ैOPV-2 drops prevents us from Polio which caused weakening of muscles and paralysis of limbs.</AboutMsg>
+  </VaccId>
+
+
+  <VaccId id="7">
+    <VaccName>Pentavalent-2</VaccName>
+    <VaccMessage>Pentavalent-2 is given at 2.5 months of age</VaccMessage>
+    <AdministrationMSG>Pentavalent-2 vaccine is given in the mid-thigh muscles.</AdministrationMSG>
+    <AboutMsg>This vaccine prevents us from infectious illness of liver which includes Diphtheria,Whooping cough,Tetanus,Pneumonia,Brain fever etc</AboutMsg>
+  </VaccId>
+
+  <VaccId id="8">
+    <VaccName>OPV-3</VaccName>
+    <VaccMessage>OPV-3 is given as oral drops at 3.5 months of age one month after OPV-2.</VaccMessage>
+    <AdministrationMSG>OPV or Oral polio Vaccine is given as oral drops.</AdministrationMSG>
+    <AboutMsg>OPV-3 drops prevents us from Polio which caused weakening of muscles and paralysis of limbs.</AboutMsg>
+  </VaccId>
+
+  <VaccId id="9">
+    <VaccName>Pentavalent-3</VaccName>
+    <VaccMessage>Pentavalent-3 is given at 3.5 months of age.</VaccMessage>
+    <AdministrationMSG>Pentavalent-3 vaccine is given in the mid-thigh muscles.</AdministrationMSG>
+    <AboutMsg>This vaccine prevents us from infectious illness of liver which includes Diphtheria,Whooping cough,Tetanus,Pneumonia,Brain fever etc</AboutMsg>
+  </VaccId>
+
+  <VaccId id="10">
+    <VaccName>Measles</VaccName>
+    <VaccMessage>Measles vaccine is given between 9-12 months of age.</VaccMessage>
+    <AdministrationMSG>Measles vaccine is given in right upper arms.</AdministrationMSG>
+    <AboutMsg>This vaccine prevents us from measles which causes high fever and skin rashes.ं</AboutMsg>
+  </VaccId>
+
+
+  <VaccId id="11">
+    <VaccName>DPT Booster</VaccName>
+    <VaccMessage>DPT Booster is given at 16 months of age.</VaccMessage>
+    <AdministrationMSG>DPT Booster vaccine is given in mid-thigh region.</AdministrationMSG>
+    <AboutMsg>DPT Booster prevents from Diphtheria-Pertussis-Tetanus.Diphtheria and Pertussis affects respiratory system and Tetanus causes muscle strain</AboutMsg>
+  </VaccId>
+
+  <VaccId id="12">
+    <VaccName>OPV Booster</VaccName>
+    <VaccMessage>OPV Booster dose is given at 16 months of age.</VaccMessage>
+    <AdministrationMSG>OPV or Oral polio Vaccine is given as oral drops.</AdministrationMSG>
+    <AboutMsg>OPV Booster drops prevents us from Polio which caused weakening of muscles and paralysis of limbs.</AboutMsg>
+  </VaccId>
+
+  <VaccId id="13">
+    <VaccName>Vitamin-A</VaccName>
+    <VaccMessage>Vitamin-A is given at 9 months of age.</VaccMessage>
+    <AdministrationMSG>Vitamin-A is given as oral drops.</AdministrationMSG>
+    <AboutMsg>Vitamin-A prevents from Night Blindness.</AboutMsg>
+  </VaccId>
+
+  <VaccId id="14">
+    <VaccName>Measles Booster</VaccName>
+    <VaccMessage>Measles Booster vaccine is given in right upper arm at 16 months of age.</VaccMessage>
+    <AdministrationMSG>Measles Booster vaccine is given in right upper arm.</AdministrationMSG>
+    <AboutMsg>This vaccine prevents us from measles which causes high fever and skin rashes.</AboutMsg>
+  </VaccId>
+
+
+</VaccineMessage>

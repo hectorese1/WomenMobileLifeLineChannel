@@ -1,0 +1,98 @@
+[
+    {
+        "outputFile": "/home/zmq162/FaizDrive/Project/WomenMobileLifeLineChannel/app/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/home/zmq162/FaizDrive/Project/WomenMobileLifeLineChannel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-w720dp/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 76,
+                        "endOffset": 247
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/zmq162/faiz_studio_workspace/WomenMobileLifeLineChannel/app/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/home/zmq162/faiz_studio_workspace/WomenMobileLifeLineChannel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-w720dp/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 76,
+                        "endOffset": 247
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/zmq162/Faiz Drive/Project/WomenMobileLifeLineChannel/app/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/home/zmq162/Faiz Drive/Project/WomenMobileLifeLineChannel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-w720dp/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 76,
+                        "endOffset": 247
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/zmq153/AndroidStudioProjects/MIra_07Jan2016/07thJan2016/WomenMobileLifeLineChannel/app/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/home/zmq153/AndroidStudioProjects/MIra_07Jan2016/07thJan2016/WomenMobileLifeLineChannel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-w720dp/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 76,
+                        "endOffset": 247
+                    }
+                }
+            }
+        ]
+    }
+]
